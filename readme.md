@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benedict</h1>
-<h3 align="center">A passionate BSIT Student from Philippines</h3>
+<h3 align="center">A passionate person</h3>
 
-- 🎒 I’m currently studying at **Olivarez College**
 
-- 🌱 I’m currently learning **Java, Kotlin, Python**
+- 🌱 I’m currently learning **Java,  Python**
 
 - ⚡ Fun fact **I'm not fun**
 
