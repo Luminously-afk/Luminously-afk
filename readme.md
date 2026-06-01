@@ -2,9 +2,8 @@
 <h3 align="center">A passionate person</h3>
 
 
-- 🌱 I’m currently learning **Java,  Python**
+- 🌱 I’m currently learning **Machine Learning, Networking**
 
-- ⚡ Fun fact **I'm not fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
